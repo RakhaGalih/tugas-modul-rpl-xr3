@@ -307,3 +307,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 }
 ### ScreenShot
+<img width="208" alt="balok 1" src="https://user-images.githubusercontent.com/54633534/88505468-bd700000-d001-11ea-9aa5-e00298a6383b.png">
+<img width="430" alt="balok 2" src="https://user-images.githubusercontent.com/54633534/88505473-bf39c380-d001-11ea-9592-45497450ecfc.png">
