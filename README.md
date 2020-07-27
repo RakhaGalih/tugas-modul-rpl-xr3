@@ -1,6 +1,9 @@
 # tugas-modul-rpl-xr3
+
 ## perkenalan
+
 ### activity_main.xml
+
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -85,8 +88,11 @@
         android:text="@string/mko" />
 
 </LinearLayout>
+
 ### strings.xml
+
 <resources>
+    
     <string name="app_name">perkenalan</string>
     <string name="Nama">Nama</string>
     <string name="nama">Nama :</string>
@@ -101,12 +107,17 @@
     <string name="mm">Mendengarkan musik</string>
     <string name="wish">Keinginan :</string>
     <string name="mko">Membahagiakan kedua orangtua</string>
+    
 </resources>
+
 ### dimens.xml
+
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    
     <dimen name="vp">16dp</dimen>
     <dimen name="hp">16dp</dimen>
+    
 </resources>
 
 
@@ -176,23 +187,30 @@
     </LinearLayout>
    
 ### dimens.xml
+
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    
     <dimen name = "activity_horizontal_margin">16dp</dimen>
     <dimen name = "activity_vertical_margin">8dp</dimen>
+    
 </resources>
     
 ### strings.xml
+
 <resources>
+    
     <string name="app_name">Produktif Balok</string>
     <string name="width">Lebar</string>
     <string name="height">Tinggi</string>
     <string name="length">Panjang</string>
     <string name="calculate">Hitung</string>
     <string name="result">Hasil</string>
+    
 </resources>
     
 ### MainActivity.java
+
 package com.example.produktifbalok;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -288,3 +306,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
     }
 }
+### ScreenShot
