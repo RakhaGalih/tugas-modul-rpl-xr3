@@ -119,7 +119,9 @@
     <dimen name="hp">16dp</dimen>
     
 </resources>
+
 ### ScreenShot
+
 <img width="218" alt="kenalan" src="https://user-images.githubusercontent.com/54633534/88505485-c9f45880-d001-11ea-925c-9c332b17a689.png">
 
 
